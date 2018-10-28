@@ -1,0 +1,13 @@
+C:\Users\primus\source\repos\Kelompok23\Kelompok23\Kelompok23\bin\Debug\netstandard2.0\Kelompok23.deps.json
+C:\Users\primus\source\repos\Kelompok23\Kelompok23\Kelompok23\bin\Debug\netstandard2.0\Kelompok23.dll
+C:\Users\primus\source\repos\Kelompok23\Kelompok23\Kelompok23\bin\Debug\netstandard2.0\Kelompok23.pdb
+C:\Users\primus\source\repos\Kelompok23\Kelompok23\Kelompok23\obj\Debug\netstandard2.0\Kelompok23.csprojAssemblyReference.cache
+C:\Users\primus\source\repos\Kelompok23\Kelompok23\Kelompok23\obj\Debug\netstandard2.0\Kelompok23.csproj.CoreCompileInputs.cache
+C:\Users\primus\source\repos\Kelompok23\Kelompok23\Kelompok23\obj\Debug\netstandard2.0\Kelompok23.App.xaml.g.cs
+C:\Users\primus\source\repos\Kelompok23\Kelompok23\Kelompok23\obj\Debug\netstandard2.0\Kelompok23.LoginPage.xaml.g.cs
+C:\Users\primus\source\repos\Kelompok23\Kelompok23\Kelompok23\obj\Debug\netstandard2.0\Kelompok23.MainPage.xaml.g.cs
+C:\Users\primus\source\repos\Kelompok23\Kelompok23\Kelompok23\obj\Debug\netstandard2.0\Kelompok23.SignUpPage.xaml.g.cs
+C:\Users\primus\source\repos\Kelompok23\Kelompok23\Kelompok23\obj\Debug\netstandard2.0\Kelompok23.AssemblyInfoInputs.cache
+C:\Users\primus\source\repos\Kelompok23\Kelompok23\Kelompok23\obj\Debug\netstandard2.0\Kelompok23.AssemblyInfo.cs
+C:\Users\primus\source\repos\Kelompok23\Kelompok23\Kelompok23\obj\Debug\netstandard2.0\Kelompok23.dll
+C:\Users\primus\source\repos\Kelompok23\Kelompok23\Kelompok23\obj\Debug\netstandard2.0\Kelompok23.pdb
